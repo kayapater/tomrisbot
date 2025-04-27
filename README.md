@@ -16,7 +16,6 @@
 - [Zaman Dilimi Desteği](#-zaman-dilimi-desteği)
 - [Oyunlar](#-oyunlar)
 - [Destek](#-destek)
-- [Lisans](#-lisans)
 
 ## ✨ Özellikler
 
