@@ -147,9 +147,6 @@ Sorunlar, öneriler veya katkılar için:
 - [GitHub Issues](https://github.com/kullaniciadi/tomris-bot/issues)
 - [Discord Destek Sunucusu](https://discord.gg/2RTHvbfH3a)
 
-## 📄 Lisans
-
-Bu proje [MIT Lisansı](LICENSE) altında lisanslanmıştır.
 
 ---
 
