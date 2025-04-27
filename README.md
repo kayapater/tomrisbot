@@ -132,15 +132,6 @@ Oyun hakkında bilgi almak için:
 /sonharf bilgi
 ```
 
-### Kumar Oyunları
-
-Bot, çeşitli kumar oyunları sunar:
-
-- **Yazı Tura**: Basit bir yazı-tura oyunu. Doğru tahmin ederseniz bahsinizin 2 katını kazanırsınız.
-- **Slot Makinesi**: Şansınıza bağlı olarak bahsinizin 1x-10x katını kazanabilirsiniz.
-- **Blackjack**: Klasik kart oyunu. Kazanırsanız bahsinizin 2 katını alırsınız.
-- **Rulet**: Farklı bahis türleriyle oynayabileceğiniz rulet oyunu.
-
 ## 🔗 Destek
 
 Sorunlar, öneriler veya katkılar için:
@@ -153,5 +144,5 @@ Sorunlar, öneriler veya katkılar için:
 <div align="center">
   <b>Tomris Bot</b> • Güvenli ve Güçlü Yönetim
   <br>
-  Geliştirici: <a href="https://kayapater.com.tr">Vai</a>
+  Geliştirici: <a href="https://x.com/kayapater">Vai</a>
 </div>
